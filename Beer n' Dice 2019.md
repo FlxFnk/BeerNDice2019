@@ -5,7 +5,9 @@ author: Felix Funke
 ---
 
 <h1 id="beer-n-dice-2019">Beer n’ Dice 2019</h1>
-<p><a href="#Felix">Felix</a></p>
+<p><a href="#Felix">Felix</a><br>
+<a href="#Lars">Lars</a><br>
+<a href="#Christian-B.">Christian B.</a></p>
 <h2 id="felix">Felix</h2>
 <h3 id="warriors-of-the-dark-gods-4493">Warriors of the Dark Gods: 4493</h3>
 <h4 id="characters-2025">Characters: 2025</h4>
@@ -84,6 +86,5 @@ author: Felix Funke
 <h4 id="big-n-nasty-465">Big 'n Nasty: 465</h4>
 <ul>
 <li>Great Green Idol: BSB, 465</li>
-<li></li>
 </ul>
 
