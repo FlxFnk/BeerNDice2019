@@ -52,7 +52,7 @@ author: Felix Funke
 <h4 id="special-1686">Special: 1686</h4>
 <ul>
 <li>Tusker Caavlry (4): Paired Weapons, Musician, Standard Bearer, Banner of Gyengget, 680</li>
-<li>Mercenary Veterans (7): Plate Armour, Poison, Iron Fist, Champion, Musician, Standard Bearer, Pennant of the Green Grass Sky, 846</li>
+<li>Mercenary Veterans (7): Plate Armour, Poison, Iron Fist, Champion, Musician, Standard Bearer, Pennant of the Great Grass Sky, 846</li>
 <li>Sabretooth Tiger (1): 80</li>
 <li>Sabretooth Tiger (1): 80</li>
 </ul>
