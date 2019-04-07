@@ -7,7 +7,8 @@ author: Felix Funke
 <h1 id="beer-n-dice-2019">Beer n’ Dice 2019</h1>
 <p><a href="#Felix">Felix</a><br>
 <a href="#Lars">Lars</a><br>
-<a href="#Christian-B.">Christian B.</a></p>
+<a href="#Christian-B.">Christian B.</a><br>
+<a href="#Sepp">Sepp</a></p>
 <h2 id="felix">Felix</h2>
 <h3 id="warriors-of-the-dark-gods-4493">Warriors of the Dark Gods: 4493</h3>
 <h4 id="characters-2025">Characters: 2025</h4>
@@ -86,5 +87,35 @@ author: Felix Funke
 <h4 id="big-n-nasty-465">Big 'n Nasty: 465</h4>
 <ul>
 <li>Great Green Idol: BSB, 465</li>
+</ul>
+<h2 id="sepp">Sepp</h2>
+<h3 id="infernal-dwarves-4498">Infernal Dwarves: 4498</h3>
+<h4 id="characters-1375">Characters: 1375</h4>
+<ul>
+<li>Prophet: General, Wizard Master (Alchemy), Shield, Alchemist’s Alloy, Temple Lammasu (Adept), 825</li>
+<li>Vizier: BSB, Shield, Infernal Weapon, Ghostly Guard, Secret of Mithril, Bull of Shamut, 550</li>
+</ul>
+<h4 id="core-1148">Core: 1148</h4>
+<ul>
+<li>Citadel Guard (24): Shield, Musician, Standard Bearer, Banner of Shamut, 588</li>
+<li>Citadel Guard (10): Flintlock Axe, 270</li>
+<li>Citadel Guard (10): Flintlock Axe, Musician, 290</li>
+</ul>
+<h4 id="special-480">Special: 480</h4>
+<ul>
+<li>Taurukh Anointed (3): Paired Weapons, 350</li>
+<li>Hobgoblin Wolf Riders (5): 130</li>
+</ul>
+<h4 id="barrage-470">Barrage: 470</h4>
+<ul>
+<li>Hobgoblin Bolt Thrower: 95</li>
+<li>Hobgoblin Bolt Thrower: 95</li>
+<li>Gunnery Team: Flamethrower, 130</li>
+<li>Infernal Artillery: Volcano Cannon, 150</li>
+</ul>
+<h4 id="bound-and-binders-1565">Bound and Binders: 1565</h4>
+<ul>
+<li>Kadim Incarnates (6): 695</li>
+<li>Armoured Giant: Giant Club, 330</li>
 </ul>
 
