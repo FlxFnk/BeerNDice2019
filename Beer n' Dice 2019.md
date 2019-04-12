@@ -8,7 +8,8 @@ author: Felix Funke
 <p><a href="#Felix">Felix</a><br>
 <a href="#Lars">Lars</a><br>
 <a href="#Christian-B.">Christian B.</a><br>
-<a href="#Sepp">Sepp</a></p>
+<a href="#Sepp">Sepp</a><br>
+<a href="#Matze">Matze</a></p>
 <h2 id="felix">Felix</h2>
 <h3 id="warriors-of-the-dark-gods-4493">Warriors of the Dark Gods: 4493</h3>
 <h4 id="characters-2025">Characters: 2025</h4>
@@ -117,5 +118,41 @@ author: Felix Funke
 <ul>
 <li>Kadim Incarnates (6): 695</li>
 <li>Armoured Giant: Giant Club, 330</li>
+</ul>
+<h2 id="matze">Matze</h2>
+<h3 id="empire-of-sonnstahl-4495">Empire of Sonnstahl: 4495</h3>
+<h4 id="characters-1210">Characters: 1210</h4>
+<ul>
+<li>Marshal: General, Imperial Price, Shield, Talisman of Shielding, 390</li>
+<li>Marshal: BSB, Lance, Shield, Horse, Banner of Discipline, Stalker’s Standard, 325</li>
+<li>Prelate: Plate Armour, Shield, Death Warrant, 240</li>
+<li>Wizard: Adept (Divination), Light Armour, Magical Heirloom, 255</li>
+</ul>
+<h4 id="core-1168">Core: 1168</h4>
+<ul>
+<li>Electoral Cavalry (9): Knightly Orders, Cavalry Picks, Shield, Champion, Musician, Standard Bearer, 448</li>
+<li>Heavy Infantry (20): Spear, Champion, Musician, 205</li>
+<li>Heavy Infantry (20): Halberd, Champion, Musician, 205</li>
+<li>Light Infantry (10): Musician, 155</li>
+<li>Light Infantry (10): Musician, Handgun, 155</li>
+</ul>
+<h4 id="special-1055">Special: 1055</h4>
+<ul>
+<li>Imperial Guard (35): Champion, Musician, Standard Bearer, Banner of Unity, 660</li>
+<li>Knights of the Sun Griffon (3): Champion, Musician, Standard Bearer, Stalker’s Standard</li>
+</ul>
+<h4 id="imperial-auxiliaries-390">Imperial Auxiliaries: 390</h4>
+<ul>
+<li>Reiters (5): Brace of Pistols, Musician, 195</li>
+<li>Reiters (5): Brace of Pistols, Musician, 195</li>
+</ul>
+<h4 id="imperial-amoury-400">Imperial Amoury: 400</h4>
+<ul>
+<li>Artillery: Volley Gun, 200</li>
+<li>Artillery: Volley Gun, 200</li>
+</ul>
+<h4 id="sunnas-fury-272">Sunna’s Fury: 272</h4>
+<ul>
+<li>Flagellants (19): 272</li>
 </ul>
 
