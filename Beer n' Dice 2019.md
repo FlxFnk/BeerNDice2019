@@ -5,13 +5,15 @@ author: Felix Funke
 ---
 
 <h1 id="beer-n-dice-2019">Beer n’ Dice 2019</h1>
-<p><a href="#Felix">Felix</a><br>
-<a href="#Lars">Lars</a><br>
-<a href="#Christian-B.">Christian B.</a><br>
-<a href="#Sepp">Sepp</a><br>
-<a href="#Matze">Matze</a><br>
-<a href="#Christian-S.">Christian S.</a><br>
-<a href="#Ralf">Ralf</a></p>
+<ul>
+<li><a href="#Felix">Felix</a></li>
+<li><a href="#Lars">Lars</a></li>
+<li><a href="#Christian-B.">Christian B.</a></li>
+<li><a href="#Sepp">Sepp</a></li>
+<li><a href="#Matze">Matze</a></li>
+<li><a href="#Christian-S.">Christian S.</a></li>
+<li><a href="#Ralf">Ralf</a></li>
+</ul>
 <h2 id="felix">Felix</h2>
 <h3 id="warriors-of-the-dark-gods-4493">Warriors of the Dark Gods: 4493</h3>
 <h4 id="characters-2025">Characters: 2025</h4>
