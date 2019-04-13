@@ -9,7 +9,8 @@ author: Felix Funke
 <a href="#Lars">Lars</a><br>
 <a href="#Christian-B.">Christian B.</a><br>
 <a href="#Sepp">Sepp</a><br>
-<a href="#Matze">Matze</a></p>
+<a href="#Matze">Matze</a><br>
+<a href="#Christian-S.">Christian S.</a></p>
 <h2 id="felix">Felix</h2>
 <h3 id="warriors-of-the-dark-gods-4493">Warriors of the Dark Gods: 4493</h3>
 <h4 id="characters-2025">Characters: 2025</h4>
@@ -154,5 +155,30 @@ author: Felix Funke
 <h4 id="sunnas-fury-272">Sunna’s Fury: 272</h4>
 <ul>
 <li>Flagellants (19): 272</li>
+</ul>
+<h2 id="christian-s.">Christian S.</h2>
+<h3 id="ogre-khans-4497">Ogre Khans: 4497</h3>
+<h4 id="characters-840">Characters: 840</h4>
+<ul>
+<li>Shaman: General, Wizard Master (Shamanism), Iron Fist, Light Armour, Talisman of Shielding, 490</li>
+<li>Khan: BSB, Hoardmaster, Lygur’s Tongue, 350</li>
+</ul>
+<h4 id="core-1126">Core: 1126</h4>
+<ul>
+<li>Bruisers (10): Champion, Musician, Standard Bearer</li>
+<li>Tribesmen (5): Iron Fist, Champion, Musician</li>
+</ul>
+<h4 id="special-1641">Special: 1641</h4>
+<ul>
+<li>Mercenary Veterans (7): Plate Armour, Poison, Iron Fist, Champion, Musician, Standard Bearer, Pennant of the Great Grass Sky, 846</li>
+<li>Sabretooth Tiger (1): 80</li>
+<li>Sabretooth Tiger (1): 80</li>
+<li>Tusker Cavalry (3): Great Weapons, 460</li>
+<li>Yetis (2): 175</li>
+</ul>
+<h4 id="chained-beasts-890">Chained Beasts: 890</h4>
+<ul>
+<li>Frost Mammoth: 405</li>
+<li>Rock Aurochs: Lance, 485</li>
 </ul>
 
