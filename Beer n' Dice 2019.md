@@ -181,4 +181,28 @@ author: Felix Funke
 <li>Frost Mammoth: 405</li>
 <li>Rock Aurochs: Lance, 485</li>
 </ul>
+<h2 id="ralf">Ralf</h2>
+<h3 id="kingdom-of-equitane-4495">Kingdom of Equitane: 4495</h3>
+<h4 id="characters-1475">Characters: 1475</h4>
+<ul>
+<li>Duke: General, Pegasus, Grail Oath, Lance, Shield, Might, Crusader’s Salvation, Divine Judgement, 655</li>
+<li>Paladin: BSB, Barded Warhorse, Paired Weapons, Piety, Balsalt Infusion, Hero’s Heart, 375</li>
+<li>Damsel: Master Wizard (Druidism), Equitan Unicorn, 445</li>
+</ul>
+<h4 id="core-1306">Core: 1306</h4>
+<ul>
+<li>Knights Aspirant (9): Champion, Standard Bearer, Stalker’s Standard, 467</li>
+<li>Knights of the Realm (11): Champion, Standard Bearer, Stalker’s Standard, 585</li>
+<li>Pesant Bowmen (18): Crossbows, 254</li>
+</ul>
+<h4 id="special-934">Special: 934</h4>
+<ul>
+<li>Knights of the Grail (9): Champion, Standard Bearer, Banner of Speed, 814</li>
+<li>Scorpion: 120</li>
+<li>Yeoman Outriders (5): Musician, 145</li>
+</ul>
+<h4 id="airborne-gallantry-765">Airborne Gallantry: 765</h4>
+<ul>
+<li>Pegasus Knights (5): Loose Formation, Champion, Standard Bearer, Banner of Roland, 635</li>
+</ul>
 
