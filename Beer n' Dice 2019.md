@@ -13,6 +13,8 @@ author: Felix Funke
 <li><a href="#Matze">Matze</a></li>
 <li><a href="#Christian-S.">Christian S.</a></li>
 <li><a href="#Ralf">Ralf</a></li>
+<li><a href="#Sascha">Sascha</a></li>
+<li><a href="#Kemper">Kemper</a></li>
 </ul>
 <h2 id="felix">Felix</h2>
 <h3 id="warriors-of-the-dark-gods-4493">Warriors of the Dark Gods: 4493</h3>
@@ -20,7 +22,7 @@ author: Felix Funke
 <ul>
 <li>Chosen Lord:  General, Envy, Dark Prelate, Wasteland Dragon, Burning Portent, Crown of the Wizard King, Obsidian Rock, 970</li>
 <li>Chosen Lord: Envy, Lance, Chimera (Wings), Death Cheater, Touch of Greatness, 695</li>
-<li>Sorcerer: Adept (Alchemy), Plate Armor, Paired Weapons, Alchemist’s Alloy, Magical Heirloom, Binding Scroll, 360</li>
+<li>Sorcerer: Wizard Adept (Alchemy), Plate Armor, Paired Weapons, Alchemist’s Alloy, Magical Heirloom, Binding Scroll, 360</li>
 </ul>
 <h4 id="core-930">Core: 930</h4>
 <ul>
@@ -43,7 +45,7 @@ author: Felix Funke
 <h3 id="ogre-khans-4498">Ogre Khans: 4498</h3>
 <h4 id="characters-1270">Characters: 1270</h4>
 <ul>
-<li>Shaman: General, Adept (Shamanism), Iron First, Magical Heirloom, 335</li>
+<li>Shaman: General, Wizard Adept (Shamanism), Iron First, Magical Heirloom, 335</li>
 <li>Khan: BSB, Cult Leader, Heavy Armour, Iron Fist, Ogre Crossbow, Crown of the Wizard King, Rod of Battle, 405</li>
 <li>Mammoth Hunter: Spinesplitter, Leader of the Pack, Iron Fist, Wrestlers Belt, 330</li>
 <li>Shaman, Apprentice (Thaumaturgy), 200</li>
@@ -73,7 +75,7 @@ author: Felix Funke
 <li>Goblin King: Cave Goblin, Paired Weapons, Essence of Mithril, Shield Breaker, Talisman of Shielding, 270</li>
 <li>Goblin King: Cave Goblin, Heavy Armour, Shield, Paired Weapons, Cave Gnasher, Death Cheater, Hero’s Heart, Troll Ale Flask, 395</li>
 <li>Goblin Witch Doctor: Cave Goblin, Master (Witchcraft), Light Armour, Skull Fetish, 465</li>
-<li>Goblin Witch Doctor: Cave Goblin, Adept (Thaumaturgy), Book of Arcane Mastery, 285</li>
+<li>Goblin Witch Doctor: Cave Goblin, Wizard Adept (Thaumaturgy), Book of Arcane Mastery, 285</li>
 </ul>
 <h4 id="core-1255">Core: 1255</h4>
 <ul>
@@ -97,7 +99,7 @@ author: Felix Funke
 <h3 id="infernal-dwarves-4498">Infernal Dwarves: 4498</h3>
 <h4 id="characters-1375">Characters: 1375</h4>
 <ul>
-<li>Prophet: General, Wizard Master (Alchemy), Shield, Alchemist’s Alloy, Temple Lammasu (Adept), 825</li>
+<li>Prophet: General, Wizard Master (Alchemy), Shield, Alchemist’s Alloy, Temple Lammasu (Wizard Adept), 825</li>
 <li>Vizier: BSB, Shield, Infernal Weapon, Ghostly Guard, Secret of Mithril, Bull of Shamut, 550</li>
 </ul>
 <h4 id="core-1148">Core: 1148</h4>
@@ -130,7 +132,7 @@ author: Felix Funke
 <li>Marshal: General, Imperial Price, Shield, Talisman of Shielding, 390</li>
 <li>Marshal: BSB, Lance, Shield, Horse, Banner of Discipline, Stalker’s Standard, 325</li>
 <li>Prelate: Plate Armour, Shield, Death Warrant, 240</li>
-<li>Wizard: Adept (Divination), Light Armour, Magical Heirloom, 255</li>
+<li>Wizard: Wizard Adept (Divination), Light Armour, Magical Heirloom, 255</li>
 </ul>
 <h4 id="core-1168">Core: 1168</h4>
 <ul>
@@ -207,5 +209,58 @@ author: Felix Funke
 <h4 id="airborne-gallantry-765">Airborne Gallantry: 765</h4>
 <ul>
 <li>Pegasus Knights (5): Loose Formation, Champion, Standard Bearer, Banner of Roland, 635</li>
+</ul>
+<h2 id="sascha">Sascha</h2>
+<h3 id="kingdom-of-equitane-4500">Kingdom of Equitane: 4500</h3>
+<h4 id="characters-1645">Characters: 1645</h4>
+<ul>
+<li>Duke: General, Pegasus, Lance, Shield, Might, Questing Oath, Divine Judgement, Fortress of Faith, Uther’s Conviction, 680</li>
+<li>Paladin: BSB, Barded Warhorse, Shield, Questing Oath, Basalt Infusion, 300</li>
+<li>Damsel: Wizard Master (Shamanism), Barded Warhorse, Rod of Battle, 430</li>
+<li>Damsel: Wizard Adept (Divination), Barded Warhorse, 235</li>
+</ul>
+<h4 id="core-1140">Core: 1140</h4>
+<ul>
+<li>Knight Aspirant (6): Musician, 288</li>
+<li>Knights of the Realm (15): Champion, Musician, Standard Bearer, Banner of the Last Charge, 852</li>
+</ul>
+<h4 id="special-1715">Special: 1715</h4>
+<ul>
+<li>Brigants (10): 175</li>
+<li>Knights of the Quest (12): Champion, Musician, Standard Bearer, Stalker’s Standard, 675</li>
+<li>Yeoman Outriders (5): 125</li>
+<li>Yeoman Outriders (5): 125</li>
+<li>The Green Knight: 375</li>
+<li>Scorpion: 120</li>
+<li>Scorpion: 120</li>
+</ul>
+<h2 id="kemper">Kemper</h2>
+<h3 id="beast-herds-4500">Beast Herds: 4500</h3>
+<h4 id="characters-1420">Characters 1420</h4>
+<ul>
+<li>Beast Lord: General, Great Weapon, Hunting Call, Blessed Inscriptions, Crown of Horns, Destiny’s Call, Eye of Dominance, 450</li>
+<li>Beast Chieftain: BSB, Beast Axe, Heavy Armour, Shield, Greater Totem Bearer, Death Cheater, 385</li>
+<li>Soothsayer: Wizard Master (Shamanism), Light Armour, Aaghor’s Affliction, Ancestral Cravings, Talisman of the Void, 585</li>
+</ul>
+<h4 id="core-945">Core: 945</h4>
+<ul>
+<li>Mongrel Raiders (15): 130</li>
+<li>Wildhorn Herd (35): Paired Weapons, Champion (Totem Bearer: Blooded Horn Totem), Musician, Standard Bearer, Banner of the Wild Herd, 545</li>
+<li>Wildhorn Herd (15): Ambush, Paired Weapons, Throwing Weapons, Musician, Standard Bearer, 270</li>
+</ul>
+<h4 id="special-1320">Special 1320</h4>
+<ul>
+<li>Centaurs (5): Ambush, Paired Weapons, Throwing Weapons, Champion, Musician, 260</li>
+<li>Longhorn Herd (20): Ambush, Great Weapons, Champion, Musician, Standard Bearer, Banner of Discipline, 500</li>
+<li>Raiding Chariot: 110</li>
+<li>Raiding Chariot: 110</li>
+<li>Raiding Chariot: 110</li>
+<li>Razortusk Chariot: 230</li>
+</ul>
+<h4 id="terrors-of-the-wild-815">Terrors of the Wild: 815</h4>
+<ul>
+<li>Gortach: 475</li>
+<li>Jabberwock: 340</li>
+<li></li>
 </ul>
 
