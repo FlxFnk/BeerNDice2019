@@ -261,6 +261,5 @@ author: Felix Funke
 <ul>
 <li>Gortach: 475</li>
 <li>Jabberwock: 340</li>
-<li></li>
 </ul>
 
