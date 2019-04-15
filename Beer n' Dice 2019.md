@@ -15,6 +15,7 @@ author: Felix Funke
 <li><a href="#Ralf">Ralf</a></li>
 <li><a href="#Sascha">Sascha</a></li>
 <li><a href="#Kemper">Kemper</a></li>
+<li><a href="#Fritsche">Fritsche</a></li>
 </ul>
 <h2 id="felix">Felix</h2>
 <h3 id="warriors-of-the-dark-gods-4493">Warriors of the Dark Gods: 4493</h3>
@@ -261,5 +262,27 @@ author: Felix Funke
 <ul>
 <li>Gortach: 475</li>
 <li>Jabberwock: 340</li>
+</ul>
+<h2 id="fritsche">Fritsche</h2>
+<h3 id="warriors-of-the-dark-gord-4500">Warriors of the Dark Gord: 4500</h3>
+<h4 id="characters-1005">Characters: 1005</h4>
+<ul>
+<li>Sorcerer: General, Wizard Adept (Evocation), Plate Armour, Dark Chariot, Book of Arcane Mastery, Basalt Infusion, Obsidian Rock, 420</li>
+<li>Sorcerer: Wizard Master (Occultism), Plate Armour, Paired Weapons, Dark Chariot, Magical Heirloom, Rod of Battle, Gladiator’s Spirit, 585</li>
+</ul>
+<h4 id="core-932">Core: 932</h4>
+<ul>
+<li>Warriors (10): Champion, Lust, 260</li>
+<li>Barbarian Horsemen (9): Light Lance, Shield, Musician, Standard Bearer, Stalker’s Standard, 336</li>
+<li>Barbarian Horsemen (9): Light Lance, Shield, Musician, Standard Bearer, Stalker’s Standard, 336</li>
+</ul>
+<h4 id="special-2163">Special: 2163</h4>
+<ul>
+<li>Feldraks (6): Paired Weapons, Standard Bearer, Stalker’s Standard, 774</li>
+<li>Feldraks (4): Halberd, Standard Bearer, Banner of Speed, 563</li>
+<li>Feldraks (4): Paired Weapons, 481</li>
+<li>Flayers (5): 145</li>
+<li>Chimera: 200</li>
+<li>Forsaken One: 400</li>
 </ul>
 
