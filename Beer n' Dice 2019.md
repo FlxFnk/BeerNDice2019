@@ -285,4 +285,31 @@ author: Felix Funke
 <li>Chimera: 200</li>
 <li>Forsaken One: 400</li>
 </ul>
+<h2 id="niklas">Niklas</h2>
+<h3 id="orcs-and-forest-goblins-4496"><s>Orcs and</s> Forest Goblins: 4496</h3>
+<h4 id="characters-1500">Characters: 1500</h4>
+<ul>
+<li>Goblin King: General, Forest Goblin, War Cry!, Paired Weapons, Gargantula, Crown of Autocracy, Shady Shanking, 720</li>
+<li>Goblin Chief: Forest Goblin, BSB, Destiny’s Call, 200</li>
+<li>Goblin Witch Doctor: Common Goblin, Wizard Master (Witchcraft), Goblin Wolf Chariot, Death Cheater, Skull Fetish, Obsidian Rock, 580</li>
+</ul>
+<h4 id="core-1138">Core: 1138</h4>
+<ul>
+<li>Goblins (56): Forest Goblins, Spear &amp; Shield, Standard Bearer, Green Tide, 569</li>
+<li>Goblins (56): Forest Goblins, Spear &amp; Shield, Standard Bearer, Green Tide, 569</li>
+</ul>
+<h4 id="special-1498">Special: 1498</h4>
+<ul>
+<li>Goblin Wolf Chariot (3): 325</li>
+<li>Gnasher Dasher (10): 285</li>
+<li>Trolls (6): Bridge Trolls, 444</li>
+<li>Trolls (6): Bridge Trolls, 444</li>
+</ul>
+<h4 id="death-from-above-360">Death from Above: 360</h4>
+<ul>
+<li>Skewerer: 90</li>
+<li>Skewerer: 90</li>
+<li>Skewerer: 90</li>
+<li>Skewerer: 90</li>
+</ul>
 
