@@ -16,6 +16,7 @@ author: Felix Funke
 <li><a href="#Sascha">Sascha</a></li>
 <li><a href="#Kemper">Kemper</a></li>
 <li><a href="#Fritsche">Fritsche</a></li>
+<li><a href="#Niklas">Niklas</a></li>
 </ul>
 <h2 id="felix">Felix</h2>
 <h3 id="warriors-of-the-dark-gods-4493">Warriors of the Dark Gods: 4493</h3>
