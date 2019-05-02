@@ -147,7 +147,7 @@ author: Felix Funke
 <h4 id="special-1055">Special: 1055</h4>
 <ul>
 <li>Imperial Guard (35): Champion, Musician, Standard Bearer, Banner of Unity, 660</li>
-<li>Knights of the Sun Griffon (3): Champion, Musician, Standard Bearer, Stalker’s Standard</li>
+<li>Knights of the Sun Griffon (3): Champion, Musician, Standard Bearer, Stalker’s Standard, 395</li>
 </ul>
 <h4 id="imperial-auxiliaries-390">Imperial Auxiliaries: 390</h4>
 <ul>
@@ -172,8 +172,8 @@ author: Felix Funke
 </ul>
 <h4 id="core-1126">Core: 1126</h4>
 <ul>
-<li>Bruisers (10): Champion, Musician, Standard Bearer</li>
-<li>Tribesmen (5): Iron Fist, Champion, Musician</li>
+<li>Bruisers (10): Champion, Musician, Standard Bearer´, 777</li>
+<li>Tribesmen (5): Iron Fist, Champion, Musician, 349</li>
 </ul>
 <h4 id="special-1641">Special: 1641</h4>
 <ul>
