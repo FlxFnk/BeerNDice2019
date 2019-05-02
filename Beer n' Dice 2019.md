@@ -124,7 +124,7 @@ author: Felix Funke
 </ul>
 <h4 id="bound-and-binders-1520">Bound and Binders: 1520</h4>
 <ul>
-<li>Kadim Incarnates (6): 575</li>
+<li>Kadim Incarnates (5): 575</li>
 <li>Armoured Giant: Giant Club, 330</li>
 </ul>
 <h2 id="matze">Matze</h2>
