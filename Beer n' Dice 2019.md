@@ -172,7 +172,7 @@ author: Felix Funke
 </ul>
 <h4 id="core-1126">Core: 1126</h4>
 <ul>
-<li>Bruisers (10): Champion, Musician, Standard Bearer´, 777</li>
+<li>Bruisers (10): Champion, Musician, Standard Bearer, 777</li>
 <li>Tribesmen (5): Iron Fist, Champion, Musician, 349</li>
 </ul>
 <h4 id="special-1641">Special: 1641</h4>
