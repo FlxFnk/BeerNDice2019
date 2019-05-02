@@ -110,10 +110,10 @@ author: Felix Funke
 <li>Citadel Guard (10): Flintlock Axe, 270</li>
 <li>Citadel Guard (10): Flintlock Axe, Musician, 290</li>
 </ul>
-<h4 id="special-480">Special: 480</h4>
+<h4 id="special-590">Special: 590</h4>
 <ul>
-<li>Taurukh Anointed (3): Paired Weapons, 350</li>
-<li>Hobgoblin Wolf Riders (5): 130</li>
+<li>Taurukh Anointed (4): Paired Weapons, 460</li>
+<li>Hobgoblin Wolf Riders (5): Bows, 140</li>
 </ul>
 <h4 id="barrage-470">Barrage: 470</h4>
 <ul>
@@ -122,9 +122,9 @@ author: Felix Funke
 <li>Gunnery Team: Flamethrower, 130</li>
 <li>Infernal Artillery: Volcano Cannon, 150</li>
 </ul>
-<h4 id="bound-and-binders-1565">Bound and Binders: 1565</h4>
+<h4 id="bound-and-binders-1520">Bound and Binders: 1520</h4>
 <ul>
-<li>Kadim Incarnates (6): 695</li>
+<li>Kadim Incarnates (6): 575</li>
 <li>Armoured Giant: Giant Club, 330</li>
 </ul>
 <h2 id="matze">Matze</h2>
